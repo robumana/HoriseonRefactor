@@ -9,7 +9,7 @@ This website is refactored to include:
 
 ![Horiseon-website](assets/images/Horiseonthumbnail.PNG)
 
-[Horiseon-website]((https://robumana.github.io/HoriseonRefactor)
+[Horiseon-website](https://robumana.github.io/HoriseonRefactor)
 
 
 
