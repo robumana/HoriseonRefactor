@@ -15,6 +15,7 @@ body {
     color: #ffffff;
 }
 
+/* the h1 heading inside header is styled as in line with font size 48 px */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/* used the word "benefit" to apply to the benefit section of the website instead of using redudant code */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -104,7 +106,7 @@ p {
     max-width: 150px;
 }
 
-
+/* use the word "service" to apply to all the service section of the website instead of using redudant code. */
 .service {
     margin-bottom: 20px;
     padding: 50px;
