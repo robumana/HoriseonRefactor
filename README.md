@@ -7,7 +7,9 @@ This website is refactored to include:
 5.include comments 
 
 
-[![Horiseon website](assets/images/Horiseonthumbnail.PNG)]
-(https://robumana.github.io/HoriseonRefactor)
+![Horiseon-website](assets/images/Horiseonthumbnail.PNG)
+
+[Horiseon-website]((https://robumana.github.io/HoriseonRefactor)
+
 
 
