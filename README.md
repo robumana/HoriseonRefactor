@@ -3,7 +3,7 @@ This code for Hoirseon website was refactored to include: semanitc html tags,imp
 
 The code is written in HTML/CSS
 
-This is website for Hpriseon a marketing company helping illustrate its services and benefits of using there services. 
+This is website for Horiseon a marketing company helping illustrate its marketing services and the benefits using Horiseon marketing services. 
 
 
 ![Horiseon-website](assets/images/Horiseonthumbnail.PNG)
